@@ -1,6 +1,5 @@
 # ----------------------------------------------
 #  Module 6 Assignment: Fashion MNIST Classification
-#  Task:
 # 1️ Build a CNN with six layers using Keras
 # 2️ Train and evaluate on Fashion MNIST dataset
 # 3️ Make predictions on two images
